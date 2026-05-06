@@ -33,5 +33,6 @@ Praticar e demonstrar conhecimentos em:
 
 ### 📸 Screenshots
 ![Tela Principal](screenshots/atlas_1.jpg)
+![Tela Histórico](screenshots/historico.jpg)
 
 
