@@ -34,9 +34,14 @@ Praticar e demonstrar conhecimentos em:
 ### 📸 Screenshots
 Tela Principal
 ![Tela Principal](screenshots/atlas_1.jpg)
+
 Tela Histórico
 ![Tela Histórico](screenshots/historico.jpg)
+
 Tela Editor de Código
 ![Tela Editor](screenshots/code.jpg)
+
+Tela de Rascunho
+![Tela Rascunho](screenshots/rascunho.jpg)
 
 
