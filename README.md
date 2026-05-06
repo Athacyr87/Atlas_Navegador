@@ -32,6 +32,6 @@ Praticar e demonstrar conhecimentos em:
 - UX/UI em aplicações Windows
 
 ### 📸 Screenshots
-
+![Tela Principal](screenshots/atlas_1.jpg)
 
 
