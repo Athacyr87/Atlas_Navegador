@@ -32,7 +32,11 @@ Praticar e demonstrar conhecimentos em:
 - UX/UI em aplicações Windows
 
 ### 📸 Screenshots
+Tela Principal
 ![Tela Principal](screenshots/atlas_1.jpg)
+Tela Histórico
 ![Tela Histórico](screenshots/historico.jpg)
+Tela Editor de Código
+![Tela Editor](screenshots/code.jpg)
 
 
