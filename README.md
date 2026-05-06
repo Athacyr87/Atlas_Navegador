@@ -44,4 +44,7 @@ Tela Editor de Código
 Tela de Rascunho
 ![Tela Rascunho](screenshots/rascunho.jpg)
 
+Tela de Jogo Off-Line
+![Tela Rascunho](screenshots/jogo.jpg)
+
 
