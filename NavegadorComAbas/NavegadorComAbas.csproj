@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<AssemblyName>AtlasNavegador</AssemblyName>
+	<RootNamespace>Atlas</RootNamespace>
+	<ApplicationIcon>Atlas.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.3856.49" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="fundozap.jpg" />
+    <EmbeddedResource Include="rrt1.jpg" />
+  </ItemGroup>
+
+</Project>
